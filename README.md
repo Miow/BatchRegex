@@ -2,4 +2,4 @@
 Rename files in bulk
 
 
-![Screenshot]screenshot.png?raw=true "Screenshot")
+![Screenshot](screenshot.png?raw=true "Screenshot")
